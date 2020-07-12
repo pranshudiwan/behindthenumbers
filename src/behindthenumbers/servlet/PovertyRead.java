@@ -14,8 +14,8 @@ import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
-import BehindTheNumbers.dal.PovertyDao;
-import BehindTheNumbers.model.Poverty;
+import behindthenumbers.dal.*;
+import behindthenumbers.model.*;
 
 
 
